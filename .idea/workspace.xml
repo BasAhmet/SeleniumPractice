@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day01_practice/C01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day01_practice/C02.java" afterDir="false" />
+    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 1. gün">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_practice/C01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_practice/C02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_practice/C03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Util.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +41,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02">
+  <component name="RunManager" selected="JUnit.C02.test01">
     <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="techproed.day01_practice.C01" />
       <module name="SeleniumPractice" />
@@ -82,8 +80,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day02_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day02_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day02_practice.C01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day02_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day02_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day02_practice.C02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C02.test01" />
+        <item itemvalue="JUnit.C01.test01" />
         <item itemvalue="Application.C02" />
         <item itemvalue="Application.C01" />
       </list>
@@ -98,6 +130,18 @@
       <option name="presentableId" value="Default" />
       <updated>1685806294695</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practice dersi 1. gün">
+      <created>1685811610048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685811610048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice dersi 1. gün" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 1. gün" />
   </component>
 </project>
