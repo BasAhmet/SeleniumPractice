@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 2. gün">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day03_practice/C01_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day03_practice/C02_DropDownOptions.java" afterDir="false" />
+    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 3. gün">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day04_practice/C01_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day04_practice/C02_RadioButton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,43 +51,32 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C02_DropDownOptions">
-    <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day01_practice.C01" />
+  <component name="RunManager" selected="JUnit.C02_RadioButton.test01">
+    <configuration name="C01_CheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day01_practice.*" />
+          <option name="PATTERN" value="techproed.day04_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="techproed.day04_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day04_practice.C01_CheckBox" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day01_practice.C02" />
+    <configuration name="C01_CheckBox.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day01_practice.*" />
+          <option name="PATTERN" value="techproed.day04_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.day02_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.day02_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day02_practice.C01" />
+      <option name="PACKAGE_NAME" value="techproed.day04_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day04_practice.C01_CheckBox" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -105,6 +94,22 @@
       <option name="PACKAGE_NAME" value="techproed.day03_practice" />
       <option name="MAIN_CLASS_NAME" value="techproed.day03_practice.C02_DropDownOptions" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_RadioButton.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day04_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day04_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day04_practice.C02_RadioButton" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C02_RadioButton.test01" />
+        <item itemvalue="JUnit.C01_CheckBox.test01" />
+        <item itemvalue="JUnit.C01_CheckBox" />
         <item itemvalue="JUnit.C02_DropDownOptions" />
         <item itemvalue="JUnit.C02.test01" />
-        <item itemvalue="JUnit.C01.test01" />
-        <item itemvalue="Application.C02" />
-        <item itemvalue="Application.C01" />
       </list>
     </recent_temporary>
   </component>
@@ -158,12 +163,20 @@
       <option name="project" value="LOCAL" />
       <updated>1686244852213</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practice dersi 3. gün">
+      <created>1686331038508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686331038508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practice dersi 1. gün" />
     <MESSAGE value="Practice dersi 2. gün" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 2. gün" />
+    <MESSAGE value="Practice dersi 3. gün" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 3. gün" />
   </component>
 </project>
