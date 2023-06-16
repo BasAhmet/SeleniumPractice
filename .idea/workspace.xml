@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 4. gün">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day05_practice/C01_DropDownMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day05_practice/C02_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day05_practice/C03_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/TestBase.java" afterDir="false" />
+    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 5. gün">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_practice/C01_Iframe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,32 +51,32 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C03_Iframe.test01">
-    <configuration name="C01_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_Iframe.test01">
+    <configuration name="C01_Iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day05_practice.*" />
+          <option name="PATTERN" value="techproed.day06_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day05_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day05_practice.C01_DropDownMenu" />
+      <option name="PACKAGE_NAME" value="techproed.day06_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day06_practice.C01_Iframe" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_RadioButton.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day04_practice.*" />
+          <option name="PATTERN" value="techproed.day06_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day04_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day04_practice.C02_RadioButton" />
+      <option name="PACKAGE_NAME" value="techproed.day06_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day06_practice.C01_Iframe" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C01_Iframe.test01" />
+        <item itemvalue="JUnit.C01_Iframe" />
         <item itemvalue="JUnit.C03_Iframe.test01" />
         <item itemvalue="JUnit.C03_Iframe" />
         <item itemvalue="JUnit.C02_WindowHandle" />
-        <item itemvalue="JUnit.C01_DropDownMenu" />
-        <item itemvalue="JUnit.C02_RadioButton.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686416644343</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice dersi 5. gün">
+      <created>1686776243149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686776243149</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +191,7 @@
     <MESSAGE value="Practice dersi 2. gün" />
     <MESSAGE value="Practice dersi 3. gün" />
     <MESSAGE value="Practice dersi 4. gün" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 4. gün" />
+    <MESSAGE value="Practice dersi 5. gün" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 5. gün" />
   </component>
 </project>
