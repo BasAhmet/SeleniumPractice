@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 6. gün">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_practice/C01_WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_practice/C02_ActionsDragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_practice/C03_ActionMoveToElement.java" afterDir="false" />
+    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 7. gün">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C03_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C04_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/resources/ulkeler.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,53 +51,40 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TechProEducation\SeleniumPractice\src\test\java\techproed\sourcers" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C03_ActionMoveToElement">
-    <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C04_WriteExcel.test01">
+    <configuration name="C01_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day06_practice.*" />
+          <option name="PATTERN" value="techproed.day08_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day06_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day06_practice.C01_Iframe" />
+      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C01_ReadExcel" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WindowHandles.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day07_practice.*" />
+          <option name="PATTERN" value="techproed.day08_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day07_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day07_practice.C01_WindowHandles" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ActionsDragAndDrop.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.day07_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.day07_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day07_practice.C02_ActionsDragAndDrop" />
+      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C02_ReadExcel" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -116,16 +106,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_ActionMoveToElement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day07_practice.*" />
+          <option name="PATTERN" value="techproed.day08_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day07_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day07_practice.C03_ActionMoveToElement" />
+      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C03_ReadExcel" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_WriteExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day08_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C04_WriteExcel" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C04_WriteExcel.test01" />
+        <item itemvalue="JUnit.C03_ReadExcel.test01" />
+        <item itemvalue="JUnit.C02_ReadExcel.test01" />
+        <item itemvalue="JUnit.C01_ReadExcel.test01" />
         <item itemvalue="JUnit.C03_ActionMoveToElement" />
-        <item itemvalue="JUnit.C03_ActionMoveToElement.test01" />
-        <item itemvalue="JUnit.C02_ActionsDragAndDrop.test01" />
-        <item itemvalue="JUnit.C01_WindowHandles.test01" />
-        <item itemvalue="JUnit.C01_Iframe.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686937054356</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Practice dersi 7. gün">
+      <created>1687379844655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687379844656</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +216,7 @@
     <MESSAGE value="Practice dersi 4. gün" />
     <MESSAGE value="Practice dersi 5. gün" />
     <MESSAGE value="Practice dersi 6. gün" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 6. gün" />
+    <MESSAGE value="Practice dersi 7. gün" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 7. gün" />
   </component>
 </project>
