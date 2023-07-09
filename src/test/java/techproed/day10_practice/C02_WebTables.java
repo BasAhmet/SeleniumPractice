@@ -1,4 +1,4 @@
-package techproed.day09_practice;
+package techproed.day10_practice;
 
 import org.junit.Test;
 import org.openqa.selenium.Keys;

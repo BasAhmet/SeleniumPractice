@@ -1,4 +1,4 @@
-package techproed.day09_practice;
+package techproed.day10_practice;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.Test;
@@ -24,7 +24,7 @@ public class C03_ScreenShot extends TestBase {
 
         // tüm sayfanın fotografını cekin
         TakesScreenshot ts = (TakesScreenshot) driver;
-        File kayit = new File("src/test/java/techproed/day09_practice/tamSayfa.jpg");
+        File kayit = new File("src/test/java/techproed/day10_practice/tamSayfa.jpg");
         File photo = ts.getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(photo,kayit);
 
