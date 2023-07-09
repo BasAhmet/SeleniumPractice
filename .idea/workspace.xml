@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 7. gün">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C01_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C02_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C03_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_practice/C04_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/resources/ulkeler.xlsx" afterDir="false" />
+    <list default="true" id="71270185-943a-4932-a8c3-45e5c1e60747" name="Changes" comment="Practice dersi 8. gün">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_practice/C01_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_practice/C02_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day09_practice/C03_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day10_practice/C01_WebTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,80 +56,79 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C04_WriteExcel.test01">
-    <configuration name="C01_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C03_ScreenShot.test01">
+    <configuration name="C01_WebTables (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_practice.*" />
+          <option name="PATTERN" value="techproed.day10_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C01_ReadExcel" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.day08_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C02_ReadExcel" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ActionMoveToElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.day07_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.day07_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day07_practice.C03_ActionMoveToElement" />
+      <option name="PACKAGE_NAME" value="techproed.day10_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day10_practice.C01_WebTables" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_ReadExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WebTables.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_practice.*" />
+          <option name="PATTERN" value="techproed.day10_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C03_ReadExcel" />
+      <option name="PACKAGE_NAME" value="techproed.day10_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day10_practice.C01_WebTables" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_WriteExcel.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_WebTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day08_practice.*" />
+          <option name="PATTERN" value="techproed.day09_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="techproed.day08_practice" />
-      <option name="MAIN_CLASS_NAME" value="techproed.day08_practice.C04_WriteExcel" />
+      <option name="PACKAGE_NAME" value="techproed.day09_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day09_practice.C02_WebTables" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_WebTables.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day09_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day09_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day09_practice.C02_WebTables" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_ScreenShot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day09_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day09_practice" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day09_practice.C03_ScreenShot" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -140,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C04_WriteExcel.test01" />
-        <item itemvalue="JUnit.C03_ReadExcel.test01" />
-        <item itemvalue="JUnit.C02_ReadExcel.test01" />
-        <item itemvalue="JUnit.C01_ReadExcel.test01" />
-        <item itemvalue="JUnit.C03_ActionMoveToElement" />
+        <item itemvalue="JUnit.C03_ScreenShot.test01" />
+        <item itemvalue="JUnit.C02_WebTables.test01" />
+        <item itemvalue="JUnit.C02_WebTables" />
+        <item itemvalue="JUnit.C01_WebTables.test01 (1)" />
+        <item itemvalue="JUnit.C01_WebTables (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687379844656</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practice dersi 8. gün">
+      <created>1688589216639</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688589216639</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +221,7 @@
     <MESSAGE value="Practice dersi 5. gün" />
     <MESSAGE value="Practice dersi 6. gün" />
     <MESSAGE value="Practice dersi 7. gün" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 7. gün" />
+    <MESSAGE value="Practice dersi 8. gün" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice dersi 8. gün" />
   </component>
 </project>
